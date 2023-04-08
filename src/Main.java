@@ -5,6 +5,4 @@ public class Main {
             int miles = service.calculate(price); // должно получиться 500
             System.out.println(miles);
         }
-
-
     }
